@@ -18,4 +18,4 @@ A Tableau dashboard analyzing which beverage brands PepsiCo actually owns, distr
 PepsiCo owns less than half of the drink portfolio shown in this project. A large share of the portfolio is controlled through distribution agreements and partnerships.
 
 ## Blog Post
-[Read the related post on Mont Animation Studio](PASTE-YOUR-LINK-HERE)
+[Read the related post on Mont Animation Studio](https://montanimation.studio/2026/04/01/pepsico-owns-less-than-half-of-its-drink-portfolio/)

@@ -6,7 +6,7 @@ The main takeaway is simple: **PepsiCo owns less than half of the drink portfoli
 
 ## Dashboard Preview
 
-![PepsiCo Dashboard](images/Pepsico.png)
+![PepsiCo Dashboard](/images/Pepsico.png)
 
 ## Project Overview
 
